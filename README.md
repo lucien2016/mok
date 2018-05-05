@@ -9,6 +9,9 @@
     - 配置 go GOROOT GOPATH
 
 * 第一个 go 程序; go 的基础类型;
+    - helloworld
+    - go build 
+    
 * 常量与变量
 * string类型[byte,[]byte....]
 * int类型[int,int8,int16,int32,int64,uint8,uint16.....]
