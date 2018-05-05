@@ -1,8 +1,13 @@
 # MOK
 
 ### 大纲
+
 * go的基础简介(时间)
-* 安装与配置
+* 安装与配置 
+    [http://docscn.studygolang.com/doc/install]
+    - 安装二进制文件
+    - 配置 go GOROOT GOPATH
+
 * 第一个 go 程序; go 的基础类型;
 * 常量与变量
 * string类型[byte,[]byte....]
